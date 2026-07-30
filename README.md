@@ -37,7 +37,7 @@ Albert</a></td></tr>
     <tr><td>25S21</td><td><a href="https://github.com/boyu131/computing.git">Tan Bo Yu (Chen Boyu)</a></td></tr>
     <tr><td>25S21</td><td><a href="https://github.com/coderingfailuring/H2-FILES/tree/main">Tan Yan Kai Brayden</a></td></tr>
     <tr><td>25S21</td><td><a href="https://github.com/thamhoayu-wq/H2cp">Tham Hoa Yu (Tan Haoyu)</a></td></tr>
-    <tr><td>25S21</td><td><a href="https://github.com/blankets524/jpjc26">Wong Jia Xi</a></td></tr>
+    <tr><td>25S21</td><td><a href="https://github.com/blankets524/hi-test">Wong Jia Xi</a></td></tr>
     <tr><td>25S22</td><td><a href="https://github.com/ADAMT0819974J/H2COMPUTING">Adam Nazraoul Bin Azmi</a></td></tr>
     <tr><td>25S22</td><td><a href="https://github.com/carter166/H2Computing/tree/main">Carter Lee Harbick</a></td></tr>
     <tr><td>25S22</td><td><a href="https://github.com/cynicalzaza/A_Level_2020_Edgar.git">Edgar Ow Yeong Yuan Hao</a></td></tr>
